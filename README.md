@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love to watch football as long as my hometown team, Fluminense, is playing.**
 - 
-<img align="right" alt="GIF" src="https://github.com/Marcosjferreira/Marcosjferreira/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Marcosjferreira/Marcosjferreira/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
