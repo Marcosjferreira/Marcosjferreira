@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marcosjose.ferreira@gmail.com**
 
-- ⚡ Fun fact **I love football but only my hometown team Fluminense**
+- ⚡ Fun fact **I love to watch football as long as my hometown team, Fluminense, is playing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
