@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **remote or hybrid projects**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://marcosjferreira.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://marcosjferreira.github.io/portfolio/)
 
 - 💬 Ask me about **Business, Marketing & Data Analytics**
 
