@@ -4,17 +4,17 @@
 
 <img align="right" alt="GIF" src="https://github.com/Marcosjferreira/Marcosjferreira/blob/e50304b0a618603c8ac2a41c6dda485e77b08703/gif3.gif?raw=true" width="408" height="318" />
 
-- 🌱 I’m currently developing my skills further in **SQL, Excel, PowerBI & Python**
+- 🌱 I’m currently developing my skills further in **SQL, Excel, PowerBI & Python**.
 
-- 👯 I’m looking to collaborate on **remote or hybrid projects**
+- 👯 I’m looking to collaborate on **remote or hybrid projects**.
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://marcosjferreira.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://marcosjferreira.github.io/portfolio/).
 
-- 💬 Ask me about **Business, Marketing & Data Analytics**
+- 💬 Ask me about **Business, Marketing & Data Analytics**.
 
 - 📫 How to reach me **marcosjose.ferreira@gmail.com**
 
-- ⚡ Fun fact **I love to watch football as long as my hometown team, Fluminense, is playing.**
+- ⚡ Fun fact **I love to watch football as long as my hometown team, Fluminense, is playing**.
   
 
 <h3 align="left">Connect with me:</h3>
