@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcos Ferreira</h1>
 <h3 align="center">An entry-level Data Analyst living in the UK.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcosjferreira&label=Profile%20views&color=0e75b6&style=flat" alt="Marcosjferreira" /> </p>
 
-- 🌱 I’m currently developing my skills in **SQL, Excel & PowerBI**
+- 🌱 I’m currently developing my skills further in **SQL, Excel, PowerBI & Python**
 
 - 👯 I’m looking to collaborate on **remote or hybrid projects**
 
@@ -12,6 +13,8 @@
 - 📫 How to reach me **marcosjose.ferreira@gmail.com**
 
 - ⚡ Fun fact **I love to watch football as long as my hometown team, Fluminense, is playing.**
+- 
+<img align="right" alt="GIF" src="https://github.com/Marcosjferreira/Marcosjferreira/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
